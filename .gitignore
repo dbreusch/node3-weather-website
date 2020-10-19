@@ -1,5 +1,7 @@
 # Project-wide
 .env
+HEROKU_CONFIG_ENV.env
+
 .DS_Store
 *.zip
 
